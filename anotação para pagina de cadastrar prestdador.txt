@@ -1,0 +1,11 @@
+fazer Navbar em cima:
+ - nela vai ter:
+ 
+ (Página inicial) (sua conta) (sair)
+ 
+ 
+ 
+ fazer igual cadastro normal
+ 
+ e botao voltar para home paged
+ 

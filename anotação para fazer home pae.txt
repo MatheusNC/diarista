@@ -1,0 +1,22 @@
+fazer Navbar em cima:
+ - nela vai ter:
+ 
+ (Página inicial) (sua conta) (sair)
+ 
+ 
+ carrosel:
+ - nele vai ter:
+ 
+ visualizar / cadastrar
+ (visujalize ou cadastre seu prestador de serviço
+ 
+ (2 botões)
+ 
+ Visualizar e cadastrar
+ 
+ 
+ 
+ 
+ 
+ 
+ 

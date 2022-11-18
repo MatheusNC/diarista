@@ -1,28 +1,8 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-
-
-
-   body{
-    background-image: linear-gradient(rgba(27, 35, 61, 0.75),rgba(27, 35, 61, 0.75)), url("../img/background.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: center;
-
-}
 aubody {
 	font-family: 'Poppins', sans-serif;
 }
 header .carousel-inner .item {
 	height: 100vh;
-}
-
-option {
-	font-size: 20px;
 }
 
 .navbar-brand{
@@ -124,23 +104,4 @@ color: #1ba4ff;
 	}
 
 }
-
-.navbar{
-    background-image: linear-gradient(to left, #1ba4ff, #032d52);
-    
-    }
-    
-    
-    
-    .nav-item{
-        font-size: large;
-    }
-    
-    .form-group{
-        font-size: larger;
-        color: white;
-    }
-
-
-
 

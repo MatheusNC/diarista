@@ -1,0 +1,7 @@
+fazer Navbar em cima:
+ - nela vai ter:
+ 
+ (Página inicial) (sua conta) (sair)
+ 
+ 
+ fazer tabela
